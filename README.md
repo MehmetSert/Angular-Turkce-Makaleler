@@ -1,7 +1,7 @@
 # Angular Türkiye - Türkçe Dersler ve Makaleler
 Merhaba, Türkçe kaynak eksikliği olan konularda Angular kullanıcıları için hazırladığımız yararlı makaleleri ve dersleri bu repo'da listeleyeceğim.
 
-# İçerikler
+## İçerikler
 * [Angular Router - İç içe rota kullanımı - Children route tanımlama](https://kodumunblogu.net/detail/angular-router-ic-ice-rota-kullanimi-children-route-tanimlama)
 * [Angular Universal SSR build işleminde setTimeout, setInterval, localStorage, sessionStorage is not defined sorunu](https://kodumunblogu.net/detail/angular-universal-ssr-build-isleminde-settimeout-setinterval-localstorage-sessionstorage-is-not-defined-sorunu)
 * [Angular ng serve host değiştirme (localhost to projectName)](https://kodumunblogu.net/detail/angular-ng-serve-host-degistirme-localhost-to-projectname)
