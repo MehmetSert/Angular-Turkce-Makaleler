@@ -2,6 +2,7 @@
 Merhaba, Türkçe kaynak eksikliği olan konularda Angular kullanıcıları için hazırladığımız yararlı makaleleri ve dersleri bu repo'da listeleyeceğim.
 
 ## İçerikler
+* [Angular uygulama performansını nasıl artırabilirsiniz?](https://medium.com/@mehmetsert11/angular-uygulama-performansını-nasıl-artırabilirsiniz-98f0c6aa31c2)
 * [Angular ile Excel dosyası import & export etmek](https://kodumunblogu.net/detail/angular-ile-excel-dosyasi-import-export-etmek)
 * [Angular Router - İç içe rota kullanımı - Children route tanımlama](https://kodumunblogu.net/detail/angular-router-ic-ice-rota-kullanimi-children-route-tanimlama)
 * [Angular Universal SSR build işleminde setTimeout, setInterval, localStorage, sessionStorage is not defined sorunu](https://kodumunblogu.net/detail/angular-universal-ssr-build-isleminde-settimeout-setinterval-localstorage-sessionstorage-is-not-defined-sorunu)
