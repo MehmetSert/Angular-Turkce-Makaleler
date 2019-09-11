@@ -2,6 +2,10 @@
 Merhaba, Türkçe kaynak eksikliği olan konularda Angular kullanıcıları için hazırladığımız yararlı makaleleri ve dersleri bu repo'da listeleyeceğim.
 
 ## İçerikler
+* [Angular ile Sweet Alert 2 kullanımı](https://kodumunblogu.net/detail/angular-ile-sweet-alert-2-kullanimi)
+* [Angular Global Error Handler (Hata yönetimi) nasıl yapılır?](https://kodumunblogu.net/detail/angular-global-error-handler-hata-yonetimi-nasil-yapilir)
+* [Angular Componentler arası iletişim - @Input ve @Output kullanımı](https://kodumunblogu.net/detail/angular-componentler-arasi-iletisim-at-input-ve-at-output-kullanimi)
+* [Angular 8 - Angular Universal SSR - Lazy Loading Sorunu](https://kodumunblogu.net/detail/angular-8-angular-universal-ssr-lazy-loading-sorunu)
 * [Angular uygulama performansını nasıl artırabilirsiniz?](https://medium.com/@mehmetsert11/angular-uygulama-performansını-nasıl-artırabilirsiniz-98f0c6aa31c2)
 * [Angular ile Excel dosyası import & export etmek](https://kodumunblogu.net/detail/angular-ile-excel-dosyasi-import-export-etmek)
 * [Angular Router - İç içe rota kullanımı - Children route tanımlama](https://kodumunblogu.net/detail/angular-router-ic-ice-rota-kullanimi-children-route-tanimlama)
