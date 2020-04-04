@@ -2,6 +2,15 @@
 Merhaba, Türkçe kaynak eksikliği olan konularda Angular kullanıcıları için hazırladığımız yararlı makaleleri ve dersleri bu repo'da listeleyeceğim.
 
 ## İçerikler
+* [Angular - Formlardaki Kaydedilmemiş Değişiklikleri Algıla](https://kodumunblogu.net/detail/angular-formlardaki-kaydedilmemis-degisiklikleri-algila)
+* [Adım adım Angular 9 güncellemesi nasıl yapılır?](https://kodumunblogu.net/detail/adim-adim-angular-9-guncellemesi-nasil-yapilir)
+* [Beklenen Ivy geldi! Angular 9.0'daki yenilikler - Neler değişti?](https://kodumunblogu.net/detail/beklenen-ivy-geldi-angular-90daki-yenilikler-neler-degisti)
+* [Angular'da Google Adsense reklamları nasıl kullanılır?](https://kodumunblogu.net/detail/angularda-google-adsense-reklamlari-nasil-kullanilir)
+* [Angular ile detaylı bir yönetim paneli altyapısı hazırlama](https://kodumunblogu.net/detail/angular-ile-detayli-bir-yonetim-paneli-altyapisi-hazirlama)
+* [Angular Route Guards canActivate nedir? Nasıl kullanılır?](https://kodumunblogu.net/detail/angular-route-guards-canactivate-nedir-nasil-kullanilir)
+* [Angular'da Custom Pipe oluşturmak](https://kodumunblogu.net/detail/angularda-custom-pipe-olusturmak)
+* [Angular dinamik meta etiketleri kullanımı için meta servisi](https://kodumunblogu.net/detail/angular-dinamik-meta-etiketleri-kullanimi-icin-meta-servisi)
+* [Angular uygulamasında jQuery nasıl kullanılır?](https://kodumunblogu.net/detail/angular-uygulamasinda-jquery-nasil-kullanilir)
 * [Angular ile Sweet Alert 2 kullanımı](https://kodumunblogu.net/detail/angular-ile-sweet-alert-2-kullanimi)
 * [Angular Global Error Handler (Hata yönetimi) nasıl yapılır?](https://kodumunblogu.net/detail/angular-global-error-handler-hata-yonetimi-nasil-yapilir)
 * [Angular Componentler arası iletişim - @Input ve @Output kullanımı](https://kodumunblogu.net/detail/angular-componentler-arasi-iletisim-at-input-ve-at-output-kullanimi)
