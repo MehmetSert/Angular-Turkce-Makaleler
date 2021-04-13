@@ -2,6 +2,13 @@
 Merhaba, Türkçe kaynak eksikliği olan konularda Angular kullanıcıları için hazırladığımız yararlı makaleleri ve dersleri bu repo'da listeleyeceğim.
 
 ## İçerikler
+* [Tailwind CSS'i Angular ile kullanmak](https://kodumunblogu.net/detail/tailwind-cssi-angular-ile-kullanmak)
+* [Hızlandırılmış Angular Dersleri Video Serisi](https://kodumunblogu.net/detail/hizlandirilmis-angular-dersleri-video-serisi)
+* [Angular 10'daki yenilikler neler? Neler değişti?](https://kodumunblogu.net/detail/angular-10daki-yenilikler-neler-neler-degisti)
+* [Angular Universal - NestJS ile Server Side Rendering](https://kodumunblogu.net/detail/angular-universal-nestjs-ile-server-side-rendering)
+* [Angular projeleriniz için UI Kit - Kullanıcı Arabirimi Kitleri](https://kodumunblogu.net/detail/angular-projeleriniz-icin-ui-kit-kullanici-arabirimi-kitleri)
+* [Angular projenizi Firebase Hosting ile yayınlama. Deploy etme.](https://kodumunblogu.net/detail/angular-projenizi-firebase-hosting-ile-yayinlama-deploy-etme)
+* [Angular'da highlight.js nasıl kullanılır?](https://kodumunblogu.net/detail/angularda-highlightjs-nasil-kullanilir)
 * [Angular - Formlardaki Kaydedilmemiş Değişiklikleri Algıla](https://kodumunblogu.net/detail/angular-formlardaki-kaydedilmemis-degisiklikleri-algila)
 * [Adım adım Angular 9 güncellemesi nasıl yapılır?](https://kodumunblogu.net/detail/adim-adim-angular-9-guncellemesi-nasil-yapilir)
 * [Beklenen Ivy geldi! Angular 9.0'daki yenilikler - Neler değişti?](https://kodumunblogu.net/detail/beklenen-ivy-geldi-angular-90daki-yenilikler-neler-degisti)
